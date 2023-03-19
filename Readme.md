@@ -1,7 +1,7 @@
 
 # Operation Analytics and Investigating Metric Spike
 
-Operation Analytics is the analysis done for the complete end to end operations of a company. With the help of this, the company then finds the areas on which it must improve upon. A key component of operational analytics is Investigating metric spike. A data analyst must be able to answer queries like "Why is there a drop in daily engagement" and help other teams do the same. What caused the decline in sales? Growth of etc
+Operation Analytics is the analysis done for the complete end to end operations of a company. With the help of this, the company then finds the areas on which it must improve upon. A key component of operational analytics is Investigating metric spike. A data analyst must be able to answer queries like "Why is there a drop in daily engagement" and help other teams do the same. What caused the decline in sales Growth etc
 
 ## Case Study -1: Operation Analytics
 
